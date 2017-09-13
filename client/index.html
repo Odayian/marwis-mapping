@@ -34,7 +34,6 @@
         <div class="span9">
           <table class="table table-striped table-bordered">
             <thead>
-              <!--repeat row data <tr> in Marsis.Database-->
               <tr>
                 <th class="span3">Lat</th>
                 <th class="span3">Long</th>
@@ -43,17 +42,21 @@
               </tr>
             </thead>
             <tbody>
+              <!--repeat row data <tr> in Marsis.Database-->
+              <!--add ng-onclick(show on map) on the row store elevation to hidden elegation data element on row-->
               <tr ng-repeat="msg in messages">
-                <td class="span2" ng-bind="msg.name"></td>
-                <td class="span7" ng-bind="msg.text"></td>
+                <td class="span3" ng-bind="msg.name"></td>
+                <td class="span3" ng-bind="msg.text"></td>
+                <td class="span3" ng-bind="msg.text2"></td>
+                <td class="span3" ng-bind="msg.text3"></td>
               </tr>
             </tbody>
           </table>
           <div class="row controls">
             <form ng-submit="send()">
-              <div class="span2"><input type="text" class="input-block-level" ng-model="name" ng-change="setName()" placeholder="Your Name"></div>
+              <div class="span2"><input type="text" class="input-block-level" ng-model="name" ng-change="setName()" placeholder="Device Name"></div>
               <div class="input-append span7">
-                <input type="text" class="span6" ng-model="text" placeholder="Message">
+                <input type="text" class="span6" ng-model="text" placeholder="Data1">
                 <input type="submit" class="span1 btn btn-primary" value="Send" ng-disabled="!text">
               </div>
             </form>
@@ -61,11 +64,22 @@
         </div>
       </div>
     </div>
-    <script src="/socket.io/socket.io.js"></script>
+        <!-- Angular -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+    <!-- AngularUI Router -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.4.2/angular-ui-router.min.js"></script>
+    <!-- FireBase -->
+    <script src="https://www.gstatic.com/firebasejs/4.3.0/firebase.js"></script>
+    <!-- AngularFire -->
+    <script src="https://cdn.firebase.com/libs/angularfire/2.3.0/angularfire.min.js"></script>
+    <!-- AngularUI Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script>
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
     <script type="text/javascript" src="/scripts/services/Marwis.js"></script>
+    <script type="text/javascript" src="/scripts/services/Mapping.js"></script>
+    <script type="text/javascript" src="/scripts/services/PullFirebase.js"></script>
     <script type="text/javascript" src="/scripts/controllers/LufftCtrl.js"></script>
+    <script type="text/javascript" src="/scripts/controllers/MapCtrl.js"></script>
   </body>
 </html>
