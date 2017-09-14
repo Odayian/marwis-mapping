@@ -1,0 +1,83 @@
+{
+  "-KtwhzBGDH0unMWILJIg" : {
+    "altTime" : 1505330984186,
+    "latitude" : "38.002",
+    "longitude" : "-76.33",
+    "roadCond" : "1",
+    "sentAt" : 1505330983795,
+    "surfaceTemp" : "88"
+  },
+  "-KtwjStH2ZtxY6oiYVtT" : {
+    "altTime" : 1505331372110,
+    "sentAt" : 1505331371679
+  },
+  "-KtwlP5RK6CjffyGtFLr" : {
+    "altTime" : 1505331880865,
+    "sentAt" : 1505331880658
+  },
+  "-KtwlQnSeV5P65YcbQY5" : {
+    "altTime" : 1505331887843,
+    "sentAt" : 1505331887395
+  },
+  "-KtwlV_EgwpVBmDCvSQ-" : {
+    "altTime" : 1505331907412,
+    "latitude" : "38.333",
+    "longitude" : "-76.999",
+    "roadCond" : "0",
+    "sentAt" : 1505331906958,
+    "surfaceTemp" : "88.8"
+  },
+  "-Ktwlej04DteFuCGOkbI" : {
+    "altTime" : 1505331948999,
+    "sentAt" : 1505331948548
+  },
+  "-Ktwlela4rbGvHePWbFI" : {
+    "altTime" : 1505331949164,
+    "sentAt" : 1505331948714
+  },
+  "-KtwleoB52iNErdqG8jg" : {
+    "altTime" : 1505331949330,
+    "sentAt" : 1505331948879
+  },
+  "-KtwleqecqfOZzzsVsZN" : {
+    "altTime" : 1505331949488,
+    "sentAt" : 1505331949029
+  },
+  "-KtwletFkhjgzp1jgdHc" : {
+    "altTime" : 1505331949653,
+    "sentAt" : 1505331949196
+  },
+  "-Ktwlevow3PyDxDAmfOE" : {
+    "altTime" : 1505331949818,
+    "sentAt" : 1505331949361
+  },
+  "-KtwleyCqzPCTlpkiFvJ" : {
+    "altTime" : 1505331949971,
+    "sentAt" : 1505331949512
+  },
+  "-Ktwlf-nXLAK_IOaD507" : {
+    "altTime" : 1505331950137,
+    "sentAt" : 1505331949680
+  },
+  "-KtwmwkEKG5mcC7-xLf5" : {
+    "altTime" : 1505332285087,
+    "deviceName" : "Marwis003",
+    "sentAt" : 1505332284624
+  },
+  "-Ktwmwn4L9rYU7lo4GbA" : {
+    "altTime" : 1505332285270,
+    "deviceName" : "Marwis003",
+    "sentAt" : 1505332284802
+  },
+  "-KtwmwqIt7nEo6CkCdt0" : {
+    "altTime" : 1505332285476,
+    "deviceName" : "Marwis003",
+    "sentAt" : 1505332285005
+  },
+  "-KtwmwtS7fXlV8_qlZKw" : {
+    "altTime" : 1505332285677,
+    "deviceName" : "Marwis003",
+    "sentAt" : 1505332285209
+  },
+  "name" : "value"
+}

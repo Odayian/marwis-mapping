@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/styles/main.css"/>
   </head>
   <body ng-controller="LufftCtrl as lufft">
-    <div class="container" ng-controller="ChatController">
+    <div class="container">
       <div class="navbar navbar-fixed-top navbar-inverse">
         <div class="navbar-inner">
           <div class="pull-right">
@@ -17,13 +17,13 @@
         </div>
       </div>
       <div class="page-header">
-        <h1>Marwis 001 {{ 2+2 }}</h1>
+        <h1>Marwis 001</h1>
       </div>
       <div class="row">
-        <div class="span3">
+        <div class="span3" ng-click= "lufft.getData()">
           <ul class="nav nav-list well">
-            <li class="nav-header">Marwis Data</li>
-            <li ng-repeat="user in roster" ng-bind="user">
+            <li class="nav-header" >Marwis Data</li>
+            <!--<li ng-repeat="device" ng-bind="user">-->
             </li>
           </ul>
         </div>
@@ -41,26 +41,31 @@
             <tbody>
               <!--repeat row data <tr> in Marsis.Database-->
               <!--add ng-onclick(show on map) on the row store elevation to hidden elegation data element on row-->
-              <tr ng-repeat="poll in lufft.getData()">
-                <td class="span3" ng-bind="">{{ poll.date_time }}</td>
-                <td class="span3" ng-bind="">{{ poll.latitude }}</td>
-                <td class="span3" ng-bind="">{{ poll.longitude }}</td>
-                <td class="span3" ng-bind="">{{ poll.SurfaceTemperature }}</td>
-                <td class="span3" ng-bind="">{{ poll.RoadCondition }}</td>
+              <tr ng-repeat="poll in lufft.polls">
+                <td class="span3">{{ poll.date_time }}</td>
+                <td class="span3">{{ poll.Latitude }}</td>
+                <td class="span3">{{ poll.Longitude }}</td>
+                <td class="span3">{{ poll.SurfaceTemperature }}</td>
+                <td class="span3">{{ poll.RoadCondition }}</td>
               </tr>
             </tbody>
           </table>
-          <div class="row controls">
-            <form ng-submit="send()">
-              <div class="span2"><input type="text" class="input-block-level" ng-model="name" ng-change="setName()" placeholder="Device Name"></div>
-              <div class="input-append span7">
-                <input type="text" class="span6" ng-model="text" placeholder="Data1">
-                <input type="submit" class="span1 btn btn-primary" value="Send" ng-disabled="!text">
-              </div>
-            </form>
-          </div>
+         
         </div>
       </div>
+       <div class="row controls">
+            <form ng-submit="send()">
+              <!--<div class="span2"><input type="text" class="input-block-level" ng-model="name" ng-change="setName()" placeholder="Device Name"></div>-->
+              <div class="input-append ">
+                <input type="date" class="span3" ng-model="lufft.dateTime" placeholder="Date/Time">
+                <input type="text" class="span2" ng-model="lufft.lat" placeholder="Latitude">
+                <input type="text" class="span2" ng-model="lufft.lon" placeholder="Longitude" >
+                <input type="text" class="span2" ng-model="lufft.surfaceTemp" placeholder="SurfaceTemp">
+                <input type="text" class="span1" ng-model="lufft.roadCond" placeholder="RoadCond">
+                <input type="submit" class="span2 btn btn-primary" value="Send" ng-click="lufft.setData()">
+              </div>
+            </form ng-submit="lufft.setData()">
+          </div>
     </div>
     <ui-view></ui-view>
         <!-- Angular -->
@@ -68,6 +73,7 @@
     <!-- AngularUI Router -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.4.2/angular-ui-router.min.js"></script>
        <script src="https://www.gstatic.com/firebasejs/4.3.1/firebase.js"></script>
+       <script src="/scripts/app.js"></script>
 <script>
   // Initialize Firebase
   var config = {
@@ -84,11 +90,8 @@
     <script src="https://cdn.firebase.com/libs/angularfire/2.3.0/angularfire.min.js"></script>
     <!-- AngularUI Bootstrap -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/2.5.0/ui-bootstrap-tpls.min.js"></script>
-
     <script src="/js/jquery.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/scripts/services/Marwis.js"></script>
-    <script type="text/javascript" src="/scripts/services/Mapping.js"></script>
     <script type="text/javascript" src="/scripts/services/PollFirebase.js"></script>
     <script type="text/javascript" src="/scripts/controllers/LufftCtrl.js"></script>
   </body>

@@ -7,16 +7,22 @@
     "type": "git",
     "url": "git+https://github.com/Odayian/marwis-mapping.git"
   },
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "",
   "dependencies": {
-    "async": "~0.2.8",
-    "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "hapi": "~16.4.0",
+    "path": "^0.4.9",
+    "inert": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=6.11.1"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "connect-modrewrite": "^0.7.9",
+    "es5-shim": "^4.0.1"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Odayian/marwis-mapping/issues"

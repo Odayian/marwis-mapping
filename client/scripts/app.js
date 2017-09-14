@@ -10,7 +10,7 @@
         $stateProvider
             .state('mapping', {
                 url: '/',
-                controller: 'MapCtrl as map',
+                controller: 'LufftCtrl as lufft',
                 templateUrl: '/templates/lufft.html'
             });
 

@@ -1,0 +1,2114 @@
+[
+ {
+   "date_time": "2017/01/24 16:08:42",
+   "Latitude": 39.44989,
+   "Longitude": -92.409785,
+   "Altitude": 262.35,
+   "Course": {
+      "Heading": 353.11
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.19",
+   "DewPoint": "37.3",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:12:31",
+   "Latitude": 39.449881,
+   "Longitude": -92.409746,
+   "Altitude": 263.35,
+   "Course": {
+      "Heading": 107.93
+   },
+   "Speed": 0.35,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:12:40",
+   "Latitude": 39.449883,
+   "Longitude": -92.409751,
+   "Altitude": 262.82,
+   "Course": {
+      "Heading": 134.65
+   },
+   "Speed": 0.58,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:12:50",
+   "Latitude": 39.449911,
+   "Longitude": -92.409852,
+   "Altitude": 261.87,
+   "Course": {
+      "Heading": 164.53
+   },
+   "Speed": 0.24,
+   "SurfaceTemperature": "63.55",
+   "DewPoint": "37.52",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:00",
+   "Latitude": 39.45003,
+   "Longitude": -92.409786,
+   "Altitude": 263.72,
+   "Course": {
+      "Heading": 4.92
+   },
+   "Speed": 0.73,
+   "SurfaceTemperature": "63.4",
+   "DewPoint": "37.51",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:10",
+   "Latitude": 39.449984,
+   "Longitude": -92.409785,
+   "Altitude": 263.87,
+   "Course": {
+      "Heading": 154.34
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.41",
+   "DewPoint": "37.53",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:20",
+   "Latitude": 39.449936,
+   "Longitude": -92.409777,
+   "Altitude": 263.61,
+   "Course": {
+      "Heading": 154.34
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.45",
+   "DewPoint": "37.54",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:30",
+   "Latitude": 39.449929,
+   "Longitude": -92.409792,
+   "Altitude": 263.61,
+   "Course": {
+      "Heading": 348.79
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.32",
+   "DewPoint": "37.58",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:39",
+   "Latitude": 39.449929,
+   "Longitude": -92.409792,
+   "Altitude": 263.61,
+   "Course": {
+      "Heading": 351.76
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.31",
+   "DewPoint": "37.56",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:13:50",
+   "Latitude": 39.450006,
+   "Longitude": -92.409998,
+   "Altitude": 263.01,
+   "Course": {
+      "Heading": 352.08
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.41",
+   "DewPoint": "37.59",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:00",
+   "Latitude": 39.44982,
+   "Longitude": -92.409698,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 338.41
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.29",
+   "DewPoint": "37.58",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:10",
+   "Latitude": 39.449884,
+   "Longitude": -92.409759,
+   "Altitude": 263.76,
+   "Course": {
+      "Heading": 336.03
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.66",
+   "DewPoint": "37.57",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:20",
+   "Latitude": 39.449884,
+   "Longitude": -92.409759,
+   "Altitude": 263.79,
+   "Course": {
+      "Heading": 265.7
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.41",
+   "DewPoint": "37.58",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:30",
+   "Latitude": 39.449884,
+   "Longitude": -92.409759,
+   "Altitude": 263.63,
+   "Course": {
+      "Heading": 266.27
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.37",
+   "DewPoint": "37.58",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:40",
+   "Latitude": 39.449884,
+   "Longitude": -92.409759,
+   "Altitude": 263.45,
+   "Course": {
+      "Heading": 263.3
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.38",
+   "DewPoint": "37.61",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:14:50",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.82,
+   "Course": {
+      "Heading": 271.51
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.4",
+   "DewPoint": "37.55",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:00",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.59,
+   "Course": {
+      "Heading": 266.8
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.03",
+   "DewPoint": "37.57",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:10",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.72,
+   "Course": {
+      "Heading": 276.23
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.22",
+   "DewPoint": "37.6",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:20",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 279.89
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.41",
+   "DewPoint": "37.62",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:30",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.88,
+   "Course": {
+      "Heading": 256.14
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.6",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:40",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.73,
+   "Course": {
+      "Heading": 260.58
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.26",
+   "DewPoint": "37.61",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:15:50",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 274.21
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.64",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:00",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 256.66
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.24",
+   "DewPoint": "37.63",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:10",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 260.71
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.29",
+   "DewPoint": "37.64",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:20",
+   "Latitude": 39.449856,
+   "Longitude": -92.409729,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 265.3
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.28",
+   "DewPoint": "37.67",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:30",
+   "Latitude": 39.449878,
+   "Longitude": -92.409792,
+   "Altitude": 262.26,
+   "Course": {
+      "Heading": 266.52
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.13",
+   "DewPoint": "37.67",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:40",
+   "Latitude": 39.449862,
+   "Longitude": -92.409751,
+   "Altitude": 263.98,
+   "Course": {
+      "Heading": 281.74
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63",
+   "DewPoint": "37.68",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:16:50",
+   "Latitude": 39.449862,
+   "Longitude": -92.409751,
+   "Altitude": 263.69,
+   "Course": {
+      "Heading": 263.57
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.25",
+   "DewPoint": "37.65",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:17:00",
+   "Latitude": 39.449862,
+   "Longitude": -92.409751,
+   "Altitude": 263.76,
+   "Course": {
+      "Heading": 263.57
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.21",
+   "DewPoint": "37.67",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:17:10",
+   "Latitude": 39.449862,
+   "Longitude": -92.409751,
+   "Altitude": 263.94,
+   "Course": {
+      "Heading": 335.45
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.17",
+   "DewPoint": "37.71",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:17:49",
+   "Latitude": 39.449852,
+   "Longitude": -92.409743,
+   "Altitude": 262.24,
+   "Course": {
+      "Heading": 345.1
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.73",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:18:31",
+   "Latitude": 39.449862,
+   "Longitude": -92.409755,
+   "Altitude": 263.75,
+   "Course": {
+      "Heading": 345.44
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.37",
+   "DewPoint": "37.78",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:18:34",
+   "Latitude": 39.449862,
+   "Longitude": -92.409755,
+   "Altitude": 263.75,
+   "Course": {
+      "Heading": 342.05
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:21:02",
+   "Latitude": 39.449859,
+   "Longitude": -92.409752,
+   "Altitude": 262.25,
+   "Course": {
+      "Heading": 344.27
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.43",
+   "DewPoint": "37.65",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:21:11",
+   "Latitude": 39.449862,
+   "Longitude": -92.409761,
+   "Altitude": 262.27,
+   "Course": {
+      "Heading": 343.4
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.41",
+   "DewPoint": "37.62",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:21:20",
+   "Latitude": 39.449862,
+   "Longitude": -92.409761,
+   "Altitude": 262.27,
+   "Course": {
+      "Heading": 343.4
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.68",
+   "DewPoint": "37.62",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:21:30",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 264.04,
+   "Course": {
+      "Heading": 343.25
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.39",
+   "DewPoint": "37.6",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:21:31",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.83,
+   "Course": {
+      "Heading": 37.26
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:22:23",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.86,
+   "Course": {
+      "Heading": 16.03
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.93",
+   "DewPoint": "37.62",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:22:40",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.51,
+   "Course": {
+      "Heading": 4.49
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.71",
+   "DewPoint": "37.66",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:22:50",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.55,
+   "Course": {
+      "Heading": 2.66
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.85",
+   "DewPoint": "37.68",
+   "WaterFilm": "1.09",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "1"
+},
+ {
+   "date_time": "2017/01/24 16:23:00",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.55,
+   "Course": {
+      "Heading": 352.29
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "65.41",
+   "DewPoint": "37.71",
+   "WaterFilm": "4.62",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "2"
+},
+ {
+   "date_time": "2017/01/24 16:23:10",
+   "Latitude": 39.44986,
+   "Longitude": -92.409755,
+   "Altitude": 263.53,
+   "Course": {
+      "Heading": 354.87
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "64.87",
+   "DewPoint": "37.72",
+   "WaterFilm": "4.63",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "2"
+},
+ {
+   "date_time": "2017/01/24 16:23:20",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.23,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "65.25",
+   "DewPoint": "37.74",
+   "WaterFilm": "4.62",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "2"
+},
+ {
+   "date_time": "2017/01/24 16:23:30",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.27,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "65.11",
+   "DewPoint": "37.77",
+   "WaterFilm": "4.65",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "2"
+},
+ {
+   "date_time": "2017/01/24 16:23:40",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.17,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.76",
+   "DewPoint": "37.8",
+   "WaterFilm": "0.72",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "1"
+},
+ {
+   "date_time": "2017/01/24 16:23:50",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.47,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.86",
+   "DewPoint": "37.81",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:00",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 262.81,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.81",
+   "DewPoint": "37.79",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:10",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.26,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "64.83",
+   "DewPoint": "37.77",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:20",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.38,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.31",
+   "DewPoint": "37.81",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:30",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 262.82,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.28",
+   "DewPoint": "37.8",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:40",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.25,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.5",
+   "DewPoint": "37.78",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:24:50",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.47,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.17",
+   "DewPoint": "37.77",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:00",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.25,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.1",
+   "DewPoint": "37.77",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:10",
+   "Latitude": 39.449861,
+   "Longitude": -92.409757,
+   "Altitude": 263.7,
+   "Course": {
+      "Heading": 19.06
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.09",
+   "DewPoint": "37.85",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:20",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.62,
+   "Course": {
+      "Heading": 20.47
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.35",
+   "DewPoint": "37.94",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:30",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.08,
+   "Course": {
+      "Heading": 20.56
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.26",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:40",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.34,
+   "Course": {
+      "Heading": 21.34
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.34",
+   "DewPoint": "37.84",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:25:50",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.38,
+   "Course": {
+      "Heading": 128.86
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.32",
+   "DewPoint": "37.81",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:00",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.26,
+   "Course": {
+      "Heading": 11.31
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.04",
+   "DewPoint": "37.78",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:10",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.48,
+   "Course": {
+      "Heading": 12.32
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.39",
+   "DewPoint": "37.8",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:20",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.48,
+   "Course": {
+      "Heading": 11.31
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.22",
+   "DewPoint": "37.79",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:30",
+   "Latitude": 39.449851,
+   "Longitude": -92.409744,
+   "Altitude": 263.48,
+   "Course": {
+      "Heading": 11.31
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.24",
+   "DewPoint": "37.8",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:40",
+   "Latitude": 39.449851,
+   "Longitude": -92.409749,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 11.31
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.49",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:26:50",
+   "Latitude": 39.44985,
+   "Longitude": -92.409751,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 11.31
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.21",
+   "DewPoint": "37.82",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:00",
+   "Latitude": 39.44985,
+   "Longitude": -92.409751,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 10.31
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.36",
+   "DewPoint": "37.78",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:10",
+   "Latitude": 39.449857,
+   "Longitude": -92.409755,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 12.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.07",
+   "DewPoint": "37.8",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:20",
+   "Latitude": 39.449857,
+   "Longitude": -92.409755,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.1",
+   "DewPoint": "37.82",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:30",
+   "Latitude": 39.449857,
+   "Longitude": -92.409755,
+   "Altitude": 262.17,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.34",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:40",
+   "Latitude": 39.449831,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.12",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:27:50",
+   "Latitude": 39.449833,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.22",
+   "DewPoint": "37.82",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:00",
+   "Latitude": 39.449833,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.29",
+   "DewPoint": "37.81",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:10",
+   "Latitude": 39.449833,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.16",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:20",
+   "Latitude": 39.449833,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.24",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:30",
+   "Latitude": 39.449833,
+   "Longitude": -92.409683,
+   "Altitude": 262.04,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.26",
+   "DewPoint": "37.86",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:40",
+   "Latitude": 39.449845,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 11.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.35",
+   "DewPoint": "37.86",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:28:50",
+   "Latitude": 39.449847,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.05",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:00",
+   "Latitude": 39.449847,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.38",
+   "DewPoint": "37.86",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:10",
+   "Latitude": 39.449847,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 12.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.11",
+   "DewPoint": "37.83",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:20",
+   "Latitude": 39.449847,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.16",
+   "DewPoint": "37.85",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:30",
+   "Latitude": 39.449847,
+   "Longitude": -92.40972,
+   "Altitude": 262.11,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.17",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:40",
+   "Latitude": 39.449852,
+   "Longitude": -92.409736,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.32",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:29:50",
+   "Latitude": 39.449852,
+   "Longitude": -92.409737,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.28",
+   "DewPoint": "37.86",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:00",
+   "Latitude": 39.449852,
+   "Longitude": -92.409737,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 10.32
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.24",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:10",
+   "Latitude": 39.449852,
+   "Longitude": -92.409737,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.12",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:20",
+   "Latitude": 39.449852,
+   "Longitude": -92.409737,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:30",
+   "Latitude": 39.449852,
+   "Longitude": -92.409737,
+   "Altitude": 262.15,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.45",
+   "DewPoint": "37.9",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:40",
+   "Latitude": 39.449837,
+   "Longitude": -92.40971,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.08",
+   "DewPoint": "37.9",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:30:50",
+   "Latitude": 39.449837,
+   "Longitude": -92.409711,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.2",
+   "DewPoint": "37.89",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:00",
+   "Latitude": 39.449837,
+   "Longitude": -92.409711,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.23",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:10",
+   "Latitude": 39.449837,
+   "Longitude": -92.409711,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 13.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.06",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:20",
+   "Latitude": 39.449837,
+   "Longitude": -92.409711,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 13.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.09",
+   "DewPoint": "37.89",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:30",
+   "Latitude": 39.449837,
+   "Longitude": -92.409711,
+   "Altitude": 262.14,
+   "Course": {
+      "Heading": 13.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.09",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:40",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.46,
+   "Course": {
+      "Heading": 14.38
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.08",
+   "DewPoint": "37.89",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:31:50",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.79,
+   "Course": {
+      "Heading": 13.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.05",
+   "DewPoint": "37.89",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:01",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.28,
+   "Course": {
+      "Heading": 13.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:10",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.38,
+   "Course": {
+      "Heading": 13.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.17",
+   "DewPoint": "37.89",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:20",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.5,
+   "Course": {
+      "Heading": 13.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.06",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:30",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.47,
+   "Course": {
+      "Heading": 13.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "63.08",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:40",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.39,
+   "Course": {
+      "Heading": 12.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.16",
+   "DewPoint": "37.87",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:32:50",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.39,
+   "Course": {
+      "Heading": 11.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "62.9",
+   "DewPoint": "37.88",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:00",
+   "Latitude": 39.449849,
+   "Longitude": -92.409737,
+   "Altitude": 263.39,
+   "Course": {
+      "Heading": 11.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.08",
+   "DewPoint": "37.9",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:10",
+   "Latitude": 39.449857,
+   "Longitude": -92.40974,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 12.35
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.3",
+   "DewPoint": "37.92",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:20",
+   "Latitude": 39.449859,
+   "Longitude": -92.409741,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 12.35
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.26",
+   "DewPoint": "37.92",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:30",
+   "Latitude": 39.449859,
+   "Longitude": -92.409741,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.28",
+   "DewPoint": "37.96",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:40",
+   "Latitude": 39.449859,
+   "Longitude": -92.409741,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.23",
+   "DewPoint": "37.95",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:33:50",
+   "Latitude": 39.449859,
+   "Longitude": -92.409741,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.23",
+   "DewPoint": "37.95",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:00",
+   "Latitude": 39.449859,
+   "Longitude": -92.409741,
+   "Altitude": 262.43,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.09",
+   "DewPoint": "37.95",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:10",
+   "Latitude": 39.449842,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 12.36
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.08",
+   "DewPoint": "38.03",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:20",
+   "Latitude": 39.449843,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 11.35
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.3",
+   "DewPoint": "38.05",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:30",
+   "Latitude": 39.449843,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.23",
+   "DewPoint": "38",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:40",
+   "Latitude": 39.449843,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.22",
+   "DewPoint": "37.99",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:34:50",
+   "Latitude": 39.449843,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.24",
+   "DewPoint": "38.01",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:00",
+   "Latitude": 39.449843,
+   "Longitude": -92.409722,
+   "Altitude": 262.28,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.39",
+   "DewPoint": "37.98",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:10",
+   "Latitude": 39.449868,
+   "Longitude": -92.409752,
+   "Altitude": 262.29,
+   "Course": {
+      "Heading": 12.35
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.16",
+   "DewPoint": "37.96",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:20",
+   "Latitude": 39.449869,
+   "Longitude": -92.409752,
+   "Altitude": 262.29,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "62.94",
+   "DewPoint": "37.93",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:30",
+   "Latitude": 39.449869,
+   "Longitude": -92.409752,
+   "Altitude": 262.29,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.35",
+   "DewPoint": "37.96",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:40",
+   "Latitude": 39.44977,
+   "Longitude": -92.409638,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.98",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:35:50",
+   "Latitude": 39.44977,
+   "Longitude": -92.409639,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.21",
+   "DewPoint": "38",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:00",
+   "Latitude": 39.44977,
+   "Longitude": -92.409639,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 10.33
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.93",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:10",
+   "Latitude": 39.44977,
+   "Longitude": -92.409639,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.12",
+   "DewPoint": "37.95",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:20",
+   "Latitude": 39.44977,
+   "Longitude": -92.409639,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 11.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.16",
+   "DewPoint": "37.97",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:30",
+   "Latitude": 39.44977,
+   "Longitude": -92.409639,
+   "Altitude": 262.2,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.01",
+   "DewPoint": "37.97",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:40",
+   "Latitude": 39.449821,
+   "Longitude": -92.409707,
+   "Altitude": 262.21,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.33",
+   "DewPoint": "38",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:36:50",
+   "Latitude": 39.449822,
+   "Longitude": -92.409707,
+   "Altitude": 262.21,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.14",
+   "DewPoint": "37.98",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:37:00",
+   "Latitude": 39.449822,
+   "Longitude": -92.409707,
+   "Altitude": 262.21,
+   "Course": {
+      "Heading": 10.34
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "63.54",
+   "DewPoint": "38",
+   "WaterFilm": "0",
+   "IcePercentage": "0",
+   "Friction": "0.82",
+   "RoadCondition": "0"
+},
+ {
+   "date_time": "2017/01/24 16:37:37",
+   "Latitude": 39.449841,
+   "Longitude": -92.409731,
+   "Altitude": 262.22,
+   "Course": {
+      "Heading": 10.36
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:37:46",
+   "Latitude": 39.449843,
+   "Longitude": -92.409731,
+   "Altitude": 262.22,
+   "Course": {
+      "Heading": 11.36
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:38:37",
+   "Latitude": 39.44983,
+   "Longitude": -92.409712,
+   "Altitude": 262.19,
+   "Course": {
+      "Heading": 10.35
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:38:46",
+   "Latitude": 39.449831,
+   "Longitude": -92.409712,
+   "Altitude": 262.19,
+   "Course": {
+      "Heading": 12.37
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:39:15",
+   "Latitude": 39.449853,
+   "Longitude": -92.409745,
+   "Altitude": 262.48,
+   "Course": {
+      "Heading": 12.37
+   },
+   "Speed": 0,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+},
+ {
+   "date_time": "2017/01/24 16:39:49",
+   "Latitude": 39.449853,
+   "Longitude": -92.409745,
+   "Altitude": 263.37,
+   "Course": {
+      "Heading": 10.37
+   },
+   "Speed": -1,
+   "SurfaceTemperature": "ERROR",
+   "DewPoint": "ERROR",
+   "WaterFilm": "ERROR",
+   "IcePercentage": "ERROR",
+   "Friction": "ERROR",
+   "RoadCondition": "ERROR"
+}
+]
